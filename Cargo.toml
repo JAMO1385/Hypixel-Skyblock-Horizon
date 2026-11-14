@@ -1,0 +1,3 @@
+[workspace]
+members = ["mixins/horizon_skyblock/core"]
+resolver = "2"
